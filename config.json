@@ -1,0 +1,22 @@
+{
+  "SetTimeout": "5000", 
+  "WipedTodayEnabled": true,
+  "WipedTodayHours": 24, 
+  "Servers": [
+      {
+          "IP":"168.100.161.153",
+          "RconPort": 28044,
+          "RconPassword": "Bammargera89",
+          "DiscordToken": "MTA3MTg4MTc4NTE2MTU2ODMzNg.GjG3bF.Hxupedh-ilP1ZVRWx9TQ2kEydS7VNrz9cjzFJM"
+      },
+      {
+        "IP":"",
+        "RconPort": 28015,
+        "RconPassword": "",
+        "DiscordToken": ""
+      }
+  ]
+}
+
+
+
